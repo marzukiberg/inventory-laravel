@@ -61,7 +61,7 @@
   ?>
   @if($cek_menunggu>0)
   <div class="bg-info p-3 text-white">
-    <h5>{{$cek_menunggu}} transaksi menunggu persetujuan.</h5>
+    <h5>{{$cek_menunggu}} transaksi menunggu persetujuan manajer.</h5>
   </div>
   @endif
   <!-- /top tiles -->
